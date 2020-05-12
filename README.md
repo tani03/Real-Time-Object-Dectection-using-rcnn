@@ -4,3 +4,8 @@ Modified to real time object detection from the object detection of images using
 
 Link for object detection using images:
 https://github.com/tensorflow/models/tree/master/research/object_detection
+
+# Snapshot after code running in real time:
+
+
+
